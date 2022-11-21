@@ -7,3 +7,6 @@ Thibe
 ## merge conflict B) 
 Barry
 Lucas
+
+### Dit is een subtitle
+~~strikethrough~~
