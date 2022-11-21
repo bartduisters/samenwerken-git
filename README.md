@@ -1,13 +1,19 @@
 # Dit is een readme
-## Test
-_Cursive_
-## Cool
-Thibe   
 
-## merge conflict B) 
+## Test
+
+_Cursive_
+
+## Cool
+
+Thibe
+
+## merge conflict B)
+
 Barry
 Lucas
-
-
-
 Thibe 2
+
+### Dit is een subtitle
+
+~~strikethrough~~
