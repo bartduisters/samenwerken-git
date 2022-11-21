@@ -3,3 +3,7 @@
 _Cursive_
 ## Cool
 Thibe   
+
+## merge conflict B) 
+Barry
+Lucas
